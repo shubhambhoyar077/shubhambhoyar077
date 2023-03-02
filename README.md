@@ -21,7 +21,7 @@
 │
 └───────────────────────────────▰▰▰
 
-⠀┌──┤ SOCIAL ├─────────▰▰▰ 
+┌──┤ SOCIAL ├─────────▰▰▰ 
 │
 ├─◈ <a href="https://www.linkedin.com/in/shubham-bhoyar-3337091a7/">LinkedIn</a>
 ├─◈ <a href="https://twitter.com/ShubhamBhoya7">Twitter</a>
