@@ -30,8 +30,8 @@
 
 ┌──┤ PROJECTS ├───────▰▰▰
 │
-├─◉ <a href="https://shubhambhoyar077.github.io/leaderboard/dist/">To Do List</a> <kbd>JavaScript</kbd><kbd>CSS</kbd><kbd>HTML</kbd>
-├─◉ <a href="https://shubhambhoyar077.github.io/to-do-list/dist/">To Do List</a> <kbd>JavaScript</kbd><kbd>CSS</kbd><kbd>HTML</kbd>
+├─◉ <a href="https://shubhambhoyar077.github.io/leaderboard/dist/">Leaderboard</a> <kbd>JavaScript</kbd><kbd>Webpack</kbd>
+├─◉ <a href="https://shubhambhoyar077.github.io/to-do-list/dist/">To Do List</a> <kbd>JavaScript</kbd><kbd>Webpack</kbd><kbd>Jest</kbd>
 ├─◉ <a href="https://shubhambhoyar077.github.io/awesome-book/">Awesome Books</a> <kbd>JavaScript</kbd><kbd>CSS</kbd><kbd>HTML</kbd>
 ├─◉ <a href="https://shubhambhoyar077.github.io/gdc_capstone/">Game Developer Conference Capstone</a> <kbd>JavaScript</kbd><kbd>CSS</kbd><kbd>HTML</kbd>
 ├─◉ <a href="https://play.google.com/store/apps/dev?id=5528223517988168440">Android Games</a> <kbd>Godot</kbd><kbd>GDScript</kbd>
