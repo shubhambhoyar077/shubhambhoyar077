@@ -37,4 +37,12 @@
 ├─◉ <a href="https://play.google.com/store/apps/dev?id=5528223517988168440">Android Games</a> <kbd>Godot</kbd><kbd>GDScript</kbd>
 │
 └───────────────────────────────▰▰▰
+
+┌──┤ GROUP PROJECTS ├───────▰▰▰
+│
+├─⍟ <a href="https://zeff96.github.io/Seafood-capstone-project/dist/">Seafood JavaScript Capstone</a> <kbd><a src="https://github.com/zeff96">zeff96</a></kbd><kbd><a src="https://github.com/enis-memic">Eins</a></kbd><kbd><a src="https://github.com/shubhambhoyar077">Shubham</a></kbd>
+│
+└───────────────────────────────▰▰▰
+
+
 </pre>
