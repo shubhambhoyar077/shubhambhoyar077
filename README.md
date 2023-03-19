@@ -40,7 +40,7 @@
 
 ┌──┤ GROUP PROJECTS ├───────▰▰▰
 │
-├─⍟ <a href="https://zeff96.github.io/Seafood-capstone-project/dist/">Seafood JavaScript Capstone</a> <kbd><a src="https://github.com/zeff96">zeff96</a></kbd><kbd><a src="https://github.com/enis-memic">Eins</a></kbd><kbd><a src="https://github.com/shubhambhoyar077">Shubham</a></kbd>
+├─⍟ <a href="https://zeff96.github.io/Seafood-capstone-project/dist/">Seafood JavaScript Capstone</a> <kbd><a href="https://github.com/zeff96">zeff96</a></kbd><kbd><a href="https://github.com/enis-memic">Eins</a></kbd><kbd><a href="https://github.com/shubhambhoyar077">Shubham</a></kbd>
 │
 └───────────────────────────────▰▰▰
 
