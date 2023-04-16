@@ -17,7 +17,7 @@
 ├─▣ Shubham Bhoyar                    
 ├─▣ Full Stack Developer
 ├─▣ Currently enrolled in Microverse.
-├─▣ Check Out my <a href="https://shubhambhoyar077.github.io/portfolio/">Portfolio</a>
+├─▣ <a href="https://shubhambhoyar077.github.io/portfolio/">Portfolio</a>
 │
 └───────────────────────────────▰▰▰
 
@@ -30,6 +30,7 @@
 
 ┌──┤ PROJECTS ├───────▰▰▰
 │
+├─◉ <a href="https://math-magician-3zcg.onrender.com/">Math Magicians</a> <kbd>React</kbd><kbd>Redux</kbd>
 ├─◉ <a href="https://shubhambhoyar077.github.io/leaderboard/dist/">Leaderboard</a> <kbd>JavaScript</kbd><kbd>Webpack</kbd>
 ├─◉ <a href="https://shubhambhoyar077.github.io/to-do-list/dist/">To Do List</a> <kbd>JavaScript</kbd><kbd>Webpack</kbd><kbd>Jest</kbd>
 ├─◉ <a href="https://shubhambhoyar077.github.io/awesome-book/">Awesome Books</a> <kbd>JavaScript</kbd><kbd>CSS</kbd><kbd>HTML</kbd>
