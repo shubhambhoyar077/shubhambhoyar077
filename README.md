@@ -30,6 +30,7 @@
 
 ┌──┤ PROJECTS ├───────▰▰▰
 │
+├─◉ <a href="https://crypto-j3cj.onrender.com/">Crypto</a> <kbd>React</kbd><kbd>Redux</kbd>
 ├─◉ <a href="https://math-magician-3zcg.onrender.com/">Math Magicians</a> <kbd>React</kbd><kbd>Redux</kbd>
 ├─◉ <a href="https://shubhambhoyar077.github.io/leaderboard/dist/">Leaderboard</a> <kbd>JavaScript</kbd><kbd>Webpack</kbd>
 ├─◉ <a href="https://shubhambhoyar077.github.io/to-do-list/dist/">To Do List</a> <kbd>JavaScript</kbd><kbd>Webpack</kbd><kbd>Jest</kbd>
