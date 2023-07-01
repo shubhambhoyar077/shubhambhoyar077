@@ -44,6 +44,7 @@
 │
 ├─⍟ <a href="https://zeff96.github.io/seafood-capstone-project/dist/">Seafood JavaScript Capstone</a> <kbd><a href="https://github.com/zeff96">zeff96</a></kbd><kbd><a href="https://github.com/enis-memic">Eins</a></kbd><kbd><a href="https://github.com/shubhambhoyar077">Shubham</a></kbd>
 ├─⍟ <a href="https://space-hub-osb.netlify.app/">Space Travelers' Hub</a> <kbd><a href="https://github.com/codedit334">Oussama Elabdioui</a></kbd><kbd><a href="https://github.com/ShiroYaksha90">Basim Aljazaeri</a></kbd><kbd><a href="https://github.com/shubhambhoyar077">Shubham</a></kbd>
+├─⍟ <a href="https://recipe-app-5nwt.onrender.com">Recipe App</a> <kbd><a href="https://github.com/edubew">Edubew</a></kbd><kbd><a href="https://github.com/shubhambhoyar077">Shubham</a></kbd>
 │
 └───────────────────────────────▰▰▰
 
