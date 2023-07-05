@@ -30,7 +30,7 @@
 
 ┌──┤ PROJECTS ├───────▰▰▰
 │
-├─◉ <a href=" savearly.onrender.com/ ">SavEarly</a> <kbd>Ruby on Rails</kbd><kbd>Postgres</kbd>
+├─◉ <a href="https://savearly.onrender.com/groups">SavEarly(Mobile web)</a> <kbd>Ruby on Rails</kbd><kbd>Postgres</kbd>
 ├─◉ <a href="https://crypto-j3cj.onrender.com/">Crypto</a> <kbd>React</kbd><kbd>Redux</kbd>
 ├─◉ <a href="https://math-magician-3zcg.onrender.com/">Math Magicians</a> <kbd>React</kbd><kbd>Redux</kbd>
 ├─◉ <a href="https://shubhambhoyar077.github.io/leaderboard/dist/">Leaderboard</a> <kbd>JavaScript</kbd><kbd>Webpack</kbd>
